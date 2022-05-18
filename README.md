@@ -5,8 +5,8 @@
  3. run the ams-dml.sql file under ams\ams-web\DB directory if you need sample data.
  4. import the project in intellij.
   
- # http://localhost:8080/ams/appointment/getAllToday
- # http://localhost:8080/ams/appointment/getByPatientName?patientName=anwar
- # http://localhost:8080/ams/appointment/patient/1/hisory
+
+# Swagger doc url :
+http://localhost:8080/ams/swagger-ui.html#/appointments
 
 
